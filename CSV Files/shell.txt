@@ -1,0 +1,5 @@
+import-csv ClubPlayersTable.csv | export-csv ClubPlayersTable2.csv  -NoTypeInformation -Encoding UTF8
+import-csv ClubsTable.csv | export-csv ClubsTable2.csv  -NoTypeInformation -Encoding UTF8
+import-csv MatchesTable.csv | export-csv MatchesTable2.csv  -NoTypeInformation -Encoding UTF8
+import-csv PlayersTable.csv | export-csv PlayersTable2.csv  -NoTypeInformation -Encoding UTF8
+import-csv StadiumsTable.csv | export-csv StadiumsTable2.csv  -NoTypeInformation -Encoding UTF8
