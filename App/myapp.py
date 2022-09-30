@@ -8,7 +8,7 @@ from tabulate import tabulate
 db = mysql.connector.connect(
     host='db4free.net',
     user='basantelhussein',
-    passwd='Bb1762001',
+    passwd='hellothere',
     database='basant_pl'
 )
 
