@@ -1,0 +1,2 @@
+# CSV Files
+This directory contains all the scrapped data for tables from EPL official website.
